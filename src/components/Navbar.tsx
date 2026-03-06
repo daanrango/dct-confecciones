@@ -26,7 +26,7 @@ export default function Navbar() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center px-6 py-4">
           <Link href="/">
             <Image
-              src="/logo-completo.png"
+              src="/dct-confecciones/logo-completo.png"
               alt="Logo"
               width={100}
               height={200}
